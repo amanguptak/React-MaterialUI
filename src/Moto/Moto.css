@@ -1,0 +1,13 @@
+.banner{
+    text-align: left;
+    height:360px;
+   
+    color: white;
+    padding:30px;
+    margin: 30px;
+    background-image:url('https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg');
+}
+.banner h1{
+    font-size:50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
